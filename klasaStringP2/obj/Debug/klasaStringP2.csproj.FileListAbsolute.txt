@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\klasaStringP2\obj\Debug\klasaStringP2.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\klasaStringP2\obj\Debug\klasaStringP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\klasaStringP2\obj\Debug\klasaStringP2.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\klasaStringP2\bin\Debug\klasaStringP2.exe.config
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\klasaStringP2\bin\Debug\klasaStringP2.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\klasaStringP2\bin\Debug\klasaStringP2.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\klasaStringP2\obj\Debug\klasaStringP2.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\klasaStringP2\obj\Debug\klasaStringP2.pdb
